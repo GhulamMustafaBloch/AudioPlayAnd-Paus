@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main {
+  width: 80%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+div {
+  cursor: pointer;
+  height: auto;
+  margin: auto;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
